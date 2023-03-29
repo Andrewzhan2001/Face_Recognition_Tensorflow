@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/97903569/227969632-21153a49-0cb4-4b40-
 
 - Using `Tensorflow` and `Keras` for Deep Learning
 - Using `OpenCV` for image capture and processing, so that we can verify the image in real-time
-- Using `Kivy` App for image verification
+- Using `Kivy` to build the image verification app
 - Training model replicates what is shown in the paper titled Siamese Neural Networks for One-shot Image Recognition
 - Model is implemented using the `Convolutional Neural Network`
 
